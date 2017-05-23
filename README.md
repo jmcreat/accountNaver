@@ -2,5 +2,5 @@
       Using node.js webdriver module make naver account auto update program
 
 
-  start
+# start
       node accoutNote
